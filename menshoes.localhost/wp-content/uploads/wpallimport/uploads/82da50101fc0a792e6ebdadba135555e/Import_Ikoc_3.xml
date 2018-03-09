@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<node>
+		<brand><![CDATA[Ikoc]]></brand>
+		<product><![CDATA[2024 7]]></product>
+		<sku><![CDATA[502]]></sku>
+		<price><![CDATA[1550]]></price>
+		<description><![CDATA[Сезон: осень/весна]]></description>
+		<img_link><![CDATA[http://menshoes.in.ua/wp-content/uploads/6-ikoc-2024 7.gif]]></img_link>
+		<category><![CDATA[Туфли]]></category>
+		<season><![CDATA[Осень/весна]]></season>
+		<size><![CDATA[40|41|42|43]]></size>
+	</node>
+	<node>
+		<brand><![CDATA[Ikoc]]></brand>
+		<product><![CDATA[2055 1]]></product>
+		<sku><![CDATA[503]]></sku>
+		<price><![CDATA[1550]]></price>
+		<description><![CDATA[Сезон: осень/весна]]></description>
+		<img_link><![CDATA[http://menshoes.in.ua/wp-content/uploads/7-ikoc-2055 1.gif]]></img_link>
+		<category><![CDATA[Туфли]]></category>
+		<season><![CDATA[Осень/весна]]></season>
+		<size><![CDATA[40|41|42|43|44|45]]></size>
+	</node>
+	<node>
+		<brand><![CDATA[Ikoc]]></brand>
+		<product><![CDATA[390 1]]></product>
+		<sku><![CDATA[504]]></sku>
+		<price><![CDATA[1550]]></price>
+		<description><![CDATA[Сезон: осень/весна]]></description>
+		<img_link><![CDATA[http://menshoes.in.ua/wp-content/uploads/8-ikoc-390 1.gif]]></img_link>
+		<category><![CDATA[Туфли]]></category>
+		<season><![CDATA[Осень/весна]]></season>
+		<size><![CDATA[40|41|42|43|44|45]]></size>
+	</node>
+</data>

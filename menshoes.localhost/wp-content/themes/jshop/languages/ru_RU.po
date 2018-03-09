@@ -1,0 +1,90 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: JShop v1.3\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-11-17 16:25+0200\n"
+"PO-Revision-Date: Sat Sep 12 2015 20:14:22 GMT+0300 (Финляндия (лето))\n"
+"Last-Translator: JustPX <mail@justpx.com>\n"
+"Language-Team: JustPX <mail@justpx.com>\n"
+"Language: ru\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Loco-Source-Locale: ru_RU\n"
+"X-Generator: Loco - https://localise.biz/\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ../\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Loco-Parser: loco_parse_po\n"
+"X-Loco-Target-Locale: ru_RU"
+
+#: 404.php:4
+msgid "Error 404 - Page Not Found"
+msgstr "Ошибка 404 - Страница не найдена"
+
+#: footer.php:36
+msgid "Powered by"
+msgstr "При поддержке"
+
+#: footer.php:36
+msgid "Theme"
+msgstr "Шаблон"
+
+#: functions.php:77
+msgid "Page"
+msgstr "Страница"
+
+#: functions.php:94
+#, c-format
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] "%d тов."
+msgstr[1] "%d тов."
+
+#: header.php:66
+msgid "Menu"
+msgstr "Меню"
+
+#: header.php:51
+msgid "Cart:"
+msgstr "Корзина"
+
+#: header.php:51
+msgid "View your shopping cart"
+msgstr "Ваша корзина"
+
+#: index.php:11
+msgid "Read more..."
+msgstr "Читать далее..."
+
+#: index.php:13
+msgid "Categories:"
+msgstr "Категории:"
+
+#: index.php:23
+msgid "&laquo; Newer"
+msgstr "&laquo; Новые"
+
+#: index.php:24
+msgid "Older &raquo;"
+msgstr "Старые &raquo;"
+
+#: search.php:19
+msgid "Not found."
+msgstr "Не найдено"
+
+#: searchform.php:2
+msgid "Search"
+msgstr "Поиск"
+
+#: single.php:12
+msgid "Categories "
+msgstr "Категории "
+
+#: single.php:10
+msgid "Pages"
+msgstr "Страницы"

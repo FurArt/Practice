@@ -1,0 +1,795 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<node>
+		<column_1><![CDATA[Brand]]></column_1>
+		<column_2><![CDATA[Product]]></column_2>
+		<column_3><![CDATA[SKU]]></column_3>
+		<column_4><![CDATA[Price]]></column_4>
+		<column_5><![CDATA[Description1]]></column_5>
+		<column_6><![CDATA[Description2]]></column_6>
+		<column_7><![CDATA[Description3]]></column_7>
+		<column_8><![CDATA[Description4]]></column_8>
+		<column_9><![CDATA[Img_link]]></column_9>
+		<column_10><![CDATA[Category]]></column_10>
+		<column_11><![CDATA[Season]]></column_11>
+		<column_12><![CDATA[Color]]></column_12>
+		<column_13><![CDATA[Material]]></column_13>
+		<column_14><![CDATA[Country]]></column_14>
+		<column_15><![CDATA[Size]]></column_15>
+		<column_16><![CDATA[]]></column_16>
+		<column_17><![CDATA[]]></column_17>
+		<column_18><![CDATA[]]></column_18>
+		<column_19><![CDATA[0]]></column_19>
+		<column_20><![CDATA[0]]></column_20>
+	</node>
+	<node>
+		<column_1><![CDATA[Miratti]]></column_1>
+		<column_2><![CDATA[k68037d57]]></column_2>
+		<column_3><![CDATA[167]]></column_3>
+		<column_4><![CDATA[995]]></column_4>
+		<column_5><![CDATA[Сезон: Осень/весна]]></column_5>
+		<column_6><![CDATA[Материал: Замша]]></column_6>
+		<column_7><![CDATA[Страна: Италия]]></column_7>
+		<column_8><![CDATA[Цвет: Коричневый]]></column_8>
+		<column_9><![CDATA[http://menshoes.in.ua/wp-content/uploads/266-miratti-k68037d57.gif]]></column_9>
+		<column_10><![CDATA[Мокасины]]></column_10>
+		<column_11><![CDATA[Осень/весна]]></column_11>
+		<column_12><![CDATA[Коричневый]]></column_12>
+		<column_13><![CDATA[Замша]]></column_13>
+		<column_14><![CDATA[Италия]]></column_14>
+		<column_15><![CDATA[40|41|42|43|44|45]]></column_15>
+		<column_16><![CDATA[]]></column_16>
+		<column_17><![CDATA[]]></column_17>
+		<column_18><![CDATA[]]></column_18>
+		<column_19><![CDATA[]]></column_19>
+		<column_20><![CDATA[]]></column_20>
+	</node>
+	<node>
+		<column_1><![CDATA[Nord]]></column_1>
+		<column_2><![CDATA[2330b895]]></column_2>
+		<column_3><![CDATA[16010]]></column_3>
+		<column_4><![CDATA[2750]]></column_4>
+		<column_5><![CDATA[Сезон: Осень/весна]]></column_5>
+		<column_6><![CDATA[Материал: Кожа]]></column_6>
+		<column_7><![CDATA[Страна: Польша]]></column_7>
+		<column_8><![CDATA[Цвет: Черный]]></column_8>
+		<column_9><![CDATA[http://menshoes.in.ua/wp-content/uploads/267-nord-2303v895.gif]]></column_9>
+		<column_10><![CDATA[Мокасины]]></column_10>
+		<column_11><![CDATA[Осень/весна]]></column_11>
+		<column_12><![CDATA[Черный]]></column_12>
+		<column_13><![CDATA[Кожа]]></column_13>
+		<column_14><![CDATA[Польша]]></column_14>
+		<column_15><![CDATA[40|41|42|43|44|45]]></column_15>
+		<column_16><![CDATA[]]></column_16>
+		<column_17><![CDATA[]]></column_17>
+		<column_18><![CDATA[]]></column_18>
+		<column_19><![CDATA[]]></column_19>
+		<column_20><![CDATA[]]></column_20>
+	</node>
+	<node>
+		<column_1><![CDATA[Nord]]></column_1>
+		<column_2><![CDATA[4836wd03m]]></column_2>
+		<column_3><![CDATA[16011]]></column_3>
+		<column_4><![CDATA[2750]]></column_4>
+		<column_5><![CDATA[Сезон: Осень/весна]]></column_5>
+		<column_6><![CDATA[Материал: Нубук]]></column_6>
+		<column_7><![CDATA[Страна: Польша]]></column_7>
+		<column_8><![CDATA[Цвет: Коричневый]]></column_8>
+		<column_9><![CDATA[http://menshoes.in.ua/wp-content/uploads/268-nord-4836wd03m.gif]]></column_9>
+		<column_10><![CDATA[Туфли]]></column_10>
+		<column_11><![CDATA[Осень/весна]]></column_11>
+		<column_12><![CDATA[Коричневый]]></column_12>
+		<column_13><![CDATA[Нубук]]></column_13>
+		<column_14><![CDATA[Польша]]></column_14>
+		<column_15><![CDATA[40|41|42|43|44|45]]></column_15>
+		<column_16><![CDATA[]]></column_16>
+		<column_17><![CDATA[]]></column_17>
+		<column_18><![CDATA[]]></column_18>
+		<column_19><![CDATA[]]></column_19>
+		<column_20><![CDATA[]]></column_20>
+	</node>
+	<node>
+		<column_1><![CDATA[Nord]]></column_1>
+		<column_2><![CDATA[4836wd06m]]></column_2>
+		<column_3><![CDATA[16012]]></column_3>
+		<column_4><![CDATA[2750]]></column_4>
+		<column_5><![CDATA[Сезон: Осень/весна]]></column_5>
+		<column_6><![CDATA[Материал: Нубук]]></column_6>
+		<column_7><![CDATA[Страна: Польша]]></column_7>
+		<column_8><![CDATA[Цвет: Черный]]></column_8>
+		<column_9><![CDATA[http://menshoes.in.ua/wp-content/uploads/269-nord-4836wd06m.gif]]></column_9>
+		<column_10><![CDATA[Туфли]]></column_10>
+		<column_11><![CDATA[Осень/весна]]></column_11>
+		<column_12><![CDATA[Черный]]></column_12>
+		<column_13><![CDATA[Нубук]]></column_13>
+		<column_14><![CDATA[Польша]]></column_14>
+		<column_15><![CDATA[40|41|42|43|44|45]]></column_15>
+		<column_16><![CDATA[]]></column_16>
+		<column_17><![CDATA[]]></column_17>
+		<column_18><![CDATA[]]></column_18>
+		<column_19><![CDATA[]]></column_19>
+		<column_20><![CDATA[]]></column_20>
+	</node>
+	<node>
+		<column_1><![CDATA[Red Rock]]></column_1>
+		<column_2><![CDATA[1219d35]]></column_2>
+		<column_3><![CDATA[304]]></column_3>
+		<column_4><![CDATA[1950]]></column_4>
+		<column_5><![CDATA[Сезон: Осень/весна]]></column_5>
+		<column_6><![CDATA[Материал: Кожа]]></column_6>
+		<column_7><![CDATA[Страна: Италия]]></column_7>
+		<column_8><![CDATA[Цвет: Серый]]></column_8>
+		<column_9><![CDATA[http://menshoes.in.ua/wp-content/uploads/270-redrock-12129d35.gif]]></column_9>
+		<column_10><![CDATA[Туфли]]></column_10>
+		<column_11><![CDATA[Осень/весна]]></column_11>
+		<column_12><![CDATA[Серый]]></column_12>
+		<column_13><![CDATA[Кожа]]></column_13>
+		<column_14><![CDATA[Италия]]></column_14>
+		<column_15><![CDATA[40|41|42|43|44|45]]></column_15>
+		<column_16><![CDATA[]]></column_16>
+		<column_17><![CDATA[]]></column_17>
+		<column_18><![CDATA[]]></column_18>
+		<column_19><![CDATA[]]></column_19>
+		<column_20><![CDATA[]]></column_20>
+	</node>
+	<node>
+		<column_1><![CDATA[Red Rock]]></column_1>
+		<column_2><![CDATA[12531d50g]]></column_2>
+		<column_3><![CDATA[305]]></column_3>
+		<column_4><![CDATA[2150]]></column_4>
+		<column_5><![CDATA[Сезон: Осень/весна]]></column_5>
+		<column_6><![CDATA[Материал: Кожа]]></column_6>
+		<column_7><![CDATA[Страна: Италия]]></column_7>
+		<column_8><![CDATA[Цвет: Черный]]></column_8>
+		<column_9><![CDATA[http://menshoes.in.ua/wp-content/uploads/271-redrock-12531d50g.gif]]></column_9>
+		<column_10><![CDATA[Кроссовки]]></column_10>
+		<column_11><![CDATA[Осень/весна]]></column_11>
+		<column_12><![CDATA[Черный]]></column_12>
+		<column_13><![CDATA[Кожа]]></column_13>
+		<column_14><![CDATA[Италия]]></column_14>
+		<column_15><![CDATA[40|41|42|43|44|45]]></column_15>
+		<column_16><![CDATA[]]></column_16>
+		<column_17><![CDATA[]]></column_17>
+		<column_18><![CDATA[]]></column_18>
+		<column_19><![CDATA[]]></column_19>
+		<column_20><![CDATA[]]></column_20>
+	</node>
+	<node>
+		<column_1><![CDATA[Red Rock]]></column_1>
+		<column_2><![CDATA[40261dv8j]]></column_2>
+		<column_3><![CDATA[306]]></column_3>
+		<column_4><![CDATA[1950]]></column_4>
+		<column_5><![CDATA[Сезон: Осень/весна]]></column_5>
+		<column_6><![CDATA[Материал: Кожа]]></column_6>
+		<column_7><![CDATA[Страна: Италия]]></column_7>
+		<column_8><![CDATA[Цвет: Черный]]></column_8>
+		<column_9><![CDATA[http://menshoes.in.ua/wp-content/uploads/272-redrock-40261dv8j.gif]]></column_9>
+		<column_10><![CDATA[Ботинки]]></column_10>
+		<column_11><![CDATA[Осень/весна]]></column_11>
+		<column_12><![CDATA[Черный]]></column_12>
+		<column_13><![CDATA[Кожа]]></column_13>
+		<column_14><![CDATA[Италия]]></column_14>
+		<column_15><![CDATA[40|41|42|43|44]]></column_15>
+		<column_16><![CDATA[]]></column_16>
+		<column_17><![CDATA[]]></column_17>
+		<column_18><![CDATA[]]></column_18>
+		<column_19><![CDATA[]]></column_19>
+		<column_20><![CDATA[]]></column_20>
+	</node>
+	<node>
+		<column_1><![CDATA[Red Rock]]></column_1>
+		<column_2><![CDATA[40937sv6]]></column_2>
+		<column_3><![CDATA[307]]></column_3>
+		<column_4><![CDATA[1950]]></column_4>
+		<column_5><![CDATA[Сезон: Осень/весна]]></column_5>
+		<column_6><![CDATA[Материал: Нубук]]></column_6>
+		<column_7><![CDATA[Страна: Италия]]></column_7>
+		<column_8><![CDATA[Цвет: Синий]]></column_8>
+		<column_9><![CDATA[http://menshoes.in.ua/wp-content/uploads/273-redrock-40937sv6.gif]]></column_9>
+		<column_10><![CDATA[Мужская обувь]]></column_10>
+		<column_11><![CDATA[Осень/весна]]></column_11>
+		<column_12><![CDATA[Синий]]></column_12>
+		<column_13><![CDATA[Нубук]]></column_13>
+		<column_14><![CDATA[Италия]]></column_14>
+		<column_15><![CDATA[40|41|42|43|44]]></column_15>
+		<column_16><![CDATA[]]></column_16>
+		<column_17><![CDATA[]]></column_17>
+		<column_18><![CDATA[]]></column_18>
+		<column_19><![CDATA[]]></column_19>
+		<column_20><![CDATA[]]></column_20>
+	</node>
+	<node>
+		<column_1><![CDATA[Red Rock]]></column_1>
+		<column_2><![CDATA[41705v3]]></column_2>
+		<column_3><![CDATA[308]]></column_3>
+		<column_4><![CDATA[2150]]></column_4>
+		<column_5><![CDATA[Сезон: Осень/весна]]></column_5>
+		<column_6><![CDATA[Материал: Кожа]]></column_6>
+		<column_7><![CDATA[Страна: Италия]]></column_7>
+		<column_8><![CDATA[Цвет: Черный]]></column_8>
+		<column_9><![CDATA[http://menshoes.in.ua/wp-content/uploads/274-redrock-41705v3.gif]]></column_9>
+		<column_10><![CDATA[Кроссовки]]></column_10>
+		<column_11><![CDATA[Осень/весна]]></column_11>
+		<column_12><![CDATA[Черный]]></column_12>
+		<column_13><![CDATA[Кожа]]></column_13>
+		<column_14><![CDATA[Италия]]></column_14>
+		<column_15><![CDATA[40|41|42|43|44]]></column_15>
+		<column_16><![CDATA[]]></column_16>
+		<column_17><![CDATA[]]></column_17>
+		<column_18><![CDATA[]]></column_18>
+		<column_19><![CDATA[]]></column_19>
+		<column_20><![CDATA[]]></column_20>
+	</node>
+	<node>
+		<column_1><![CDATA[Red Rock]]></column_1>
+		<column_2><![CDATA[41705v3g]]></column_2>
+		<column_3><![CDATA[309]]></column_3>
+		<column_4><![CDATA[2150]]></column_4>
+		<column_5><![CDATA[Сезон: Осень/весна]]></column_5>
+		<column_6><![CDATA[Материал: Кожа]]></column_6>
+		<column_7><![CDATA[Страна: Италия]]></column_7>
+		<column_8><![CDATA[Цвет: Черный]]></column_8>
+		<column_9><![CDATA[http://menshoes.in.ua/wp-content/uploads/275-redrock-41705v3g.gif]]></column_9>
+		<column_10><![CDATA[Кроссовки]]></column_10>
+		<column_11><![CDATA[Осень/весна]]></column_11>
+		<column_12><![CDATA[Черный]]></column_12>
+		<column_13><![CDATA[Кожа]]></column_13>
+		<column_14><![CDATA[Италия]]></column_14>
+		<column_15><![CDATA[40|41|42|43|44|45]]></column_15>
+		<column_16><![CDATA[]]></column_16>
+		<column_17><![CDATA[]]></column_17>
+		<column_18><![CDATA[]]></column_18>
+		<column_19><![CDATA[]]></column_19>
+		<column_20><![CDATA[]]></column_20>
+	</node>
+	<node>
+		<column_1><![CDATA[Red Rock]]></column_1>
+		<column_2><![CDATA[417003o7g]]></column_2>
+		<column_3><![CDATA[310]]></column_3>
+		<column_4><![CDATA[2350]]></column_4>
+		<column_5><![CDATA[Сезон: Осень/весна]]></column_5>
+		<column_6><![CDATA[Материал: Кожа]]></column_6>
+		<column_7><![CDATA[Страна: Италия]]></column_7>
+		<column_8><![CDATA[Цвет: Черный]]></column_8>
+		<column_9><![CDATA[http://menshoes.in.ua/wp-content/uploads/276-redrock-417003o7g.gif]]></column_9>
+		<column_10><![CDATA[Ботинки]]></column_10>
+		<column_11><![CDATA[Осень/весна]]></column_11>
+		<column_12><![CDATA[Черный]]></column_12>
+		<column_13><![CDATA[Кожа]]></column_13>
+		<column_14><![CDATA[Италия]]></column_14>
+		<column_15><![CDATA[40|41|42|43|44]]></column_15>
+		<column_16><![CDATA[]]></column_16>
+		<column_17><![CDATA[]]></column_17>
+		<column_18><![CDATA[]]></column_18>
+		<column_19><![CDATA[]]></column_19>
+		<column_20><![CDATA[]]></column_20>
+	</node>
+	<node>
+		<column_1><![CDATA[Red Rock]]></column_1>
+		<column_2><![CDATA[537389]]></column_2>
+		<column_3><![CDATA[311]]></column_3>
+		<column_4><![CDATA[1950]]></column_4>
+		<column_5><![CDATA[Сезон: Осень/весна]]></column_5>
+		<column_6><![CDATA[Материал: Нубук]]></column_6>
+		<column_7><![CDATA[Страна: Италия]]></column_7>
+		<column_8><![CDATA[Цвет: Серый]]></column_8>
+		<column_9><![CDATA[http://menshoes.in.ua/wp-content/uploads/277-redrock-537389.gif]]></column_9>
+		<column_10><![CDATA[Ботинки]]></column_10>
+		<column_11><![CDATA[Осень/весна]]></column_11>
+		<column_12><![CDATA[Серый]]></column_12>
+		<column_13><![CDATA[Нубук]]></column_13>
+		<column_14><![CDATA[Италия]]></column_14>
+		<column_15><![CDATA[40|41|42|43|44|45]]></column_15>
+		<column_16><![CDATA[]]></column_16>
+		<column_17><![CDATA[]]></column_17>
+		<column_18><![CDATA[]]></column_18>
+		<column_19><![CDATA[]]></column_19>
+		<column_20><![CDATA[]]></column_20>
+	</node>
+	<node>
+		<column_1><![CDATA[Flex]]></column_1>
+		<column_2><![CDATA[230103]]></column_2>
+		<column_3><![CDATA[2101]]></column_3>
+		<column_4><![CDATA[850]]></column_4>
+		<column_5><![CDATA[Сезон: Осень/весна]]></column_5>
+		<column_6><![CDATA[Материал: Джинс]]></column_6>
+		<column_7><![CDATA[Страна: Украина]]></column_7>
+		<column_8><![CDATA[Цвет: Черный]]></column_8>
+		<column_9><![CDATA[http://menshoes.in.ua/wp-content/uploads/244-flex-230103.gif]]></column_9>
+		<column_10><![CDATA[Мужская обувь]]></column_10>
+		<column_11><![CDATA[Осень/весна]]></column_11>
+		<column_12><![CDATA[Черный]]></column_12>
+		<column_13><![CDATA[Джинс]]></column_13>
+		<column_14><![CDATA[Украина]]></column_14>
+		<column_15><![CDATA[40|41|42|43|44|45]]></column_15>
+		<column_16><![CDATA[]]></column_16>
+		<column_17><![CDATA[]]></column_17>
+		<column_18><![CDATA[]]></column_18>
+		<column_19><![CDATA[]]></column_19>
+		<column_20><![CDATA[]]></column_20>
+	</node>
+	<node>
+		<column_1><![CDATA[Flex]]></column_1>
+		<column_2><![CDATA[532012]]></column_2>
+		<column_3><![CDATA[2102]]></column_3>
+		<column_4><![CDATA[995]]></column_4>
+		<column_5><![CDATA[Сезон: Осень/весна]]></column_5>
+		<column_6><![CDATA[Материал: Джинс]]></column_6>
+		<column_7><![CDATA[Страна: Украина]]></column_7>
+		<column_8><![CDATA[Цвет: Серый]]></column_8>
+		<column_9><![CDATA[http://menshoes.in.ua/wp-content/uploads/245-flex-532012.gif]]></column_9>
+		<column_10><![CDATA[Мужская обувь]]></column_10>
+		<column_11><![CDATA[Осень/весна]]></column_11>
+		<column_12><![CDATA[Серый]]></column_12>
+		<column_13><![CDATA[Джинс]]></column_13>
+		<column_14><![CDATA[Украина]]></column_14>
+		<column_15><![CDATA[41|42|43|44]]></column_15>
+		<column_16><![CDATA[]]></column_16>
+		<column_17><![CDATA[]]></column_17>
+		<column_18><![CDATA[]]></column_18>
+		<column_19><![CDATA[]]></column_19>
+		<column_20><![CDATA[]]></column_20>
+	</node>
+	<node>
+		<column_1><![CDATA[Flex]]></column_1>
+		<column_2><![CDATA[532045]]></column_2>
+		<column_3><![CDATA[2103]]></column_3>
+		<column_4><![CDATA[950]]></column_4>
+		<column_5><![CDATA[Сезон: Осень/весна]]></column_5>
+		<column_6><![CDATA[Материал: Замша]]></column_6>
+		<column_7><![CDATA[Страна: Украина]]></column_7>
+		<column_8><![CDATA[Цвет: Черный]]></column_8>
+		<column_9><![CDATA[http://menshoes.in.ua/wp-content/uploads/246-flex-532045.gif]]></column_9>
+		<column_10><![CDATA[Мужская обувь]]></column_10>
+		<column_11><![CDATA[Осень/весна]]></column_11>
+		<column_12><![CDATA[Черный]]></column_12>
+		<column_13><![CDATA[Замша]]></column_13>
+		<column_14><![CDATA[Украина]]></column_14>
+		<column_15><![CDATA[40|41|42|43|44|45]]></column_15>
+		<column_16><![CDATA[]]></column_16>
+		<column_17><![CDATA[]]></column_17>
+		<column_18><![CDATA[]]></column_18>
+		<column_19><![CDATA[]]></column_19>
+		<column_20><![CDATA[]]></column_20>
+	</node>
+	<node>
+		<column_1><![CDATA[Flex]]></column_1>
+		<column_2><![CDATA[632053]]></column_2>
+		<column_3><![CDATA[2104]]></column_3>
+		<column_4><![CDATA[995]]></column_4>
+		<column_5><![CDATA[Сезон: Осень/весна]]></column_5>
+		<column_6><![CDATA[Материал: Замша]]></column_6>
+		<column_7><![CDATA[Страна: Украина]]></column_7>
+		<column_8><![CDATA[Цвет: Синий]]></column_8>
+		<column_9><![CDATA[http://menshoes.in.ua/wp-content/uploads/247-flex-632053.gif]]></column_9>
+		<column_10><![CDATA[Мужская обувь]]></column_10>
+		<column_11><![CDATA[Осень/весна]]></column_11>
+		<column_12><![CDATA[Синий]]></column_12>
+		<column_13><![CDATA[Замша]]></column_13>
+		<column_14><![CDATA[Украина]]></column_14>
+		<column_15><![CDATA[40|41|42|43|44|45]]></column_15>
+		<column_16><![CDATA[]]></column_16>
+		<column_17><![CDATA[]]></column_17>
+		<column_18><![CDATA[]]></column_18>
+		<column_19><![CDATA[]]></column_19>
+		<column_20><![CDATA[]]></column_20>
+	</node>
+	<node>
+		<column_1><![CDATA[Flex]]></column_1>
+		<column_2><![CDATA[717043]]></column_2>
+		<column_3><![CDATA[2105]]></column_3>
+		<column_4><![CDATA[1050]]></column_4>
+		<column_5><![CDATA[Сезон: Осень/весна]]></column_5>
+		<column_6><![CDATA[Материал: Замша]]></column_6>
+		<column_7><![CDATA[Страна: Украина]]></column_7>
+		<column_8><![CDATA[Цвет: Черный]]></column_8>
+		<column_9><![CDATA[http://menshoes.in.ua/wp-content/uploads/248-flex-717043.gif]]></column_9>
+		<column_10><![CDATA[Мужская обувь]]></column_10>
+		<column_11><![CDATA[Осень/весна]]></column_11>
+		<column_12><![CDATA[Черный]]></column_12>
+		<column_13><![CDATA[Замша]]></column_13>
+		<column_14><![CDATA[Украина]]></column_14>
+		<column_15><![CDATA[40|41|42|43|44|45]]></column_15>
+		<column_16><![CDATA[]]></column_16>
+		<column_17><![CDATA[]]></column_17>
+		<column_18><![CDATA[]]></column_18>
+		<column_19><![CDATA[]]></column_19>
+		<column_20><![CDATA[]]></column_20>
+	</node>
+	<node>
+		<column_1><![CDATA[Flex]]></column_1>
+		<column_2><![CDATA[832093]]></column_2>
+		<column_3><![CDATA[2106]]></column_3>
+		<column_4><![CDATA[1095]]></column_4>
+		<column_5><![CDATA[Сезон: Осень/весна]]></column_5>
+		<column_6><![CDATA[Материал: Замша]]></column_6>
+		<column_7><![CDATA[Страна: Украина]]></column_7>
+		<column_8><![CDATA[Цвет: Синий]]></column_8>
+		<column_9><![CDATA[http://menshoes.in.ua/wp-content/uploads/249-Flex-832093.gif]]></column_9>
+		<column_10><![CDATA[Мужская обувь]]></column_10>
+		<column_11><![CDATA[Осень/весна]]></column_11>
+		<column_12><![CDATA[Синий]]></column_12>
+		<column_13><![CDATA[Замша]]></column_13>
+		<column_14><![CDATA[Украина]]></column_14>
+		<column_15><![CDATA[40|41|42|43|44]]></column_15>
+		<column_16><![CDATA[]]></column_16>
+		<column_17><![CDATA[]]></column_17>
+		<column_18><![CDATA[]]></column_18>
+		<column_19><![CDATA[]]></column_19>
+		<column_20><![CDATA[]]></column_20>
+	</node>
+	<node>
+		<column_1><![CDATA[Flex]]></column_1>
+		<column_2><![CDATA[836934]]></column_2>
+		<column_3><![CDATA[2107]]></column_3>
+		<column_4><![CDATA[995]]></column_4>
+		<column_5><![CDATA[Сезон: Осень/весна]]></column_5>
+		<column_6><![CDATA[Материал: Замша]]></column_6>
+		<column_7><![CDATA[Страна: Украина]]></column_7>
+		<column_8><![CDATA[Цвет: Синий]]></column_8>
+		<column_9><![CDATA[http://menshoes.in.ua/wp-content/uploads/250-flex-836934.gif]]></column_9>
+		<column_10><![CDATA[Мужская обувь]]></column_10>
+		<column_11><![CDATA[Осень/весна]]></column_11>
+		<column_12><![CDATA[Синий]]></column_12>
+		<column_13><![CDATA[Замша]]></column_13>
+		<column_14><![CDATA[Украина]]></column_14>
+		<column_15><![CDATA[41|43]]></column_15>
+		<column_16><![CDATA[]]></column_16>
+		<column_17><![CDATA[]]></column_17>
+		<column_18><![CDATA[]]></column_18>
+		<column_19><![CDATA[]]></column_19>
+		<column_20><![CDATA[]]></column_20>
+	</node>
+	<node>
+		<column_1><![CDATA[Flex]]></column_1>
+		<column_2><![CDATA[930793]]></column_2>
+		<column_3><![CDATA[2108]]></column_3>
+		<column_4><![CDATA[1095]]></column_4>
+		<column_5><![CDATA[Сезон: Осень/весна]]></column_5>
+		<column_6><![CDATA[Материал: Замша]]></column_6>
+		<column_7><![CDATA[Страна: Украина]]></column_7>
+		<column_8><![CDATA[Цвет: Синий]]></column_8>
+		<column_9><![CDATA[http://menshoes.in.ua/wp-content/uploads/251-flex-930793.gif]]></column_9>
+		<column_10><![CDATA[Мужская обувь]]></column_10>
+		<column_11><![CDATA[Осень/весна]]></column_11>
+		<column_12><![CDATA[Синий]]></column_12>
+		<column_13><![CDATA[Замша]]></column_13>
+		<column_14><![CDATA[Украина]]></column_14>
+		<column_15><![CDATA[40|41|42|43|44|45]]></column_15>
+		<column_16><![CDATA[]]></column_16>
+		<column_17><![CDATA[]]></column_17>
+		<column_18><![CDATA[]]></column_18>
+		<column_19><![CDATA[]]></column_19>
+		<column_20><![CDATA[]]></column_20>
+	</node>
+	<node>
+		<column_1><![CDATA[Gattini]]></column_1>
+		<column_2><![CDATA[34071]]></column_2>
+		<column_3><![CDATA[2201]]></column_3>
+		<column_4><![CDATA[1250]]></column_4>
+		<column_5><![CDATA[Сезон: Осень/весна]]></column_5>
+		<column_6><![CDATA[Материал: Замша]]></column_6>
+		<column_7><![CDATA[Страна: Украина]]></column_7>
+		<column_8><![CDATA[Цвет: Черный]]></column_8>
+		<column_9><![CDATA[http://menshoes.in.ua/wp-content/uploads/252-gattini-34071.gif]]></column_9>
+		<column_10><![CDATA[Мужская обувь]]></column_10>
+		<column_11><![CDATA[Осень/весна]]></column_11>
+		<column_12><![CDATA[Черный]]></column_12>
+		<column_13><![CDATA[Замша]]></column_13>
+		<column_14><![CDATA[Украина]]></column_14>
+		<column_15><![CDATA[40|41|42|43|44]]></column_15>
+		<column_16><![CDATA[]]></column_16>
+		<column_17><![CDATA[]]></column_17>
+		<column_18><![CDATA[]]></column_18>
+		<column_19><![CDATA[]]></column_19>
+		<column_20><![CDATA[]]></column_20>
+	</node>
+	<node>
+		<column_1><![CDATA[Ikoc]]></column_1>
+		<column_2><![CDATA[990-4]]></column_2>
+		<column_3><![CDATA[513]]></column_3>
+		<column_4><![CDATA[1550]]></column_4>
+		<column_5><![CDATA[Сезон: Осень/весна]]></column_5>
+		<column_6><![CDATA[Материал: Кожа]]></column_6>
+		<column_7><![CDATA[Страна: Украина]]></column_7>
+		<column_8><![CDATA[Цвет: Черный]]></column_8>
+		<column_9><![CDATA[http://menshoes.in.ua/wp-content/uploads/253-ikoc-990-4.gif]]></column_9>
+		<column_10><![CDATA[Туфли]]></column_10>
+		<column_11><![CDATA[Осень/весна]]></column_11>
+		<column_12><![CDATA[Черный]]></column_12>
+		<column_13><![CDATA[Кожа]]></column_13>
+		<column_14><![CDATA[Украина]]></column_14>
+		<column_15><![CDATA[40|41|42|43|44|45]]></column_15>
+		<column_16><![CDATA[]]></column_16>
+		<column_17><![CDATA[]]></column_17>
+		<column_18><![CDATA[]]></column_18>
+		<column_19><![CDATA[]]></column_19>
+		<column_20><![CDATA[]]></column_20>
+	</node>
+	<node>
+		<column_1><![CDATA[Ikoc]]></column_1>
+		<column_2><![CDATA[2015-8]]></column_2>
+		<column_3><![CDATA[514]]></column_3>
+		<column_4><![CDATA[1550]]></column_4>
+		<column_5><![CDATA[Сезон: Осень/весна]]></column_5>
+		<column_6><![CDATA[Материал: Кожа]]></column_6>
+		<column_7><![CDATA[Страна: Украина]]></column_7>
+		<column_8><![CDATA[Цвет: Коричневый]]></column_8>
+		<column_9><![CDATA[http://menshoes.in.ua/wp-content/uploads/254-ikoc-2015-8.gif]]></column_9>
+		<column_10><![CDATA[Туфли]]></column_10>
+		<column_11><![CDATA[Осень/весна]]></column_11>
+		<column_12><![CDATA[Коричневый]]></column_12>
+		<column_13><![CDATA[Кожа]]></column_13>
+		<column_14><![CDATA[Украина]]></column_14>
+		<column_15><![CDATA[40|41|42|43|44]]></column_15>
+		<column_16><![CDATA[]]></column_16>
+		<column_17><![CDATA[]]></column_17>
+		<column_18><![CDATA[]]></column_18>
+		<column_19><![CDATA[]]></column_19>
+		<column_20><![CDATA[]]></column_20>
+	</node>
+	<node>
+		<column_1><![CDATA[Ikoc]]></column_1>
+		<column_2><![CDATA[2092-4]]></column_2>
+		<column_3><![CDATA[515]]></column_3>
+		<column_4><![CDATA[1550]]></column_4>
+		<column_5><![CDATA[Сезон: Осень/весна]]></column_5>
+		<column_6><![CDATA[Материал: Кожа]]></column_6>
+		<column_7><![CDATA[Страна: Украина]]></column_7>
+		<column_8><![CDATA[Цвет: Черный]]></column_8>
+		<column_9><![CDATA[http://menshoes.in.ua/wp-content/uploads/255-ikoc-2092-4.gif]]></column_9>
+		<column_10><![CDATA[Туфли]]></column_10>
+		<column_11><![CDATA[Осень/весна]]></column_11>
+		<column_12><![CDATA[Черный]]></column_12>
+		<column_13><![CDATA[Кожа]]></column_13>
+		<column_14><![CDATA[Украина]]></column_14>
+		<column_15><![CDATA[40|41|42|43|44]]></column_15>
+		<column_16><![CDATA[]]></column_16>
+		<column_17><![CDATA[]]></column_17>
+		<column_18><![CDATA[]]></column_18>
+		<column_19><![CDATA[]]></column_19>
+		<column_20><![CDATA[]]></column_20>
+	</node>
+	<node>
+		<column_1><![CDATA[Ikoc]]></column_1>
+		<column_2><![CDATA[2115-4]]></column_2>
+		<column_3><![CDATA[516]]></column_3>
+		<column_4><![CDATA[1550]]></column_4>
+		<column_5><![CDATA[Сезон: Осень/весна]]></column_5>
+		<column_6><![CDATA[Материал: Кожа]]></column_6>
+		<column_7><![CDATA[Страна: Украина]]></column_7>
+		<column_8><![CDATA[Цвет: Синий]]></column_8>
+		<column_9><![CDATA[http://menshoes.in.ua/wp-content/uploads/256-ikoc-2115-4.gif]]></column_9>
+		<column_10><![CDATA[Туфли]]></column_10>
+		<column_11><![CDATA[Осень/весна]]></column_11>
+		<column_12><![CDATA[Синий]]></column_12>
+		<column_13><![CDATA[Кожа]]></column_13>
+		<column_14><![CDATA[Украина]]></column_14>
+		<column_15><![CDATA[40|41|42|43|44]]></column_15>
+		<column_16><![CDATA[]]></column_16>
+		<column_17><![CDATA[]]></column_17>
+		<column_18><![CDATA[]]></column_18>
+		<column_19><![CDATA[]]></column_19>
+		<column_20><![CDATA[]]></column_20>
+	</node>
+	<node>
+		<column_1><![CDATA[Ikoc]]></column_1>
+		<column_2><![CDATA[2115-8]]></column_2>
+		<column_3><![CDATA[517]]></column_3>
+		<column_4><![CDATA[1550]]></column_4>
+		<column_5><![CDATA[Сезон: Осень/весна]]></column_5>
+		<column_6><![CDATA[Материал: Кожа]]></column_6>
+		<column_7><![CDATA[Страна: Украина]]></column_7>
+		<column_8><![CDATA[Цвет: Черный]]></column_8>
+		<column_9><![CDATA[http://menshoes.in.ua/wp-content/uploads/257-ikoc-2115-8.gif]]></column_9>
+		<column_10><![CDATA[Туфли]]></column_10>
+		<column_11><![CDATA[Осень/весна]]></column_11>
+		<column_12><![CDATA[Черный]]></column_12>
+		<column_13><![CDATA[Кожа]]></column_13>
+		<column_14><![CDATA[Украина]]></column_14>
+		<column_15><![CDATA[40|41|42|43|44]]></column_15>
+		<column_16><![CDATA[]]></column_16>
+		<column_17><![CDATA[]]></column_17>
+		<column_18><![CDATA[]]></column_18>
+		<column_19><![CDATA[]]></column_19>
+		<column_20><![CDATA[]]></column_20>
+	</node>
+	<node>
+		<column_1><![CDATA[Kadar]]></column_1>
+		<column_2><![CDATA[2415270]]></column_2>
+		<column_3><![CDATA[1316]]></column_3>
+		<column_4><![CDATA[1095]]></column_4>
+		<column_5><![CDATA[Сезон: Осень/весна]]></column_5>
+		<column_6><![CDATA[Материал: Замша]]></column_6>
+		<column_7><![CDATA[Страна: Украина]]></column_7>
+		<column_8><![CDATA[Цвет: Черный]]></column_8>
+		<column_9><![CDATA[http://menshoes.in.ua/wp-content/uploads/258-kadar-2415270.gif]]></column_9>
+		<column_10><![CDATA[Мокасины]]></column_10>
+		<column_11><![CDATA[Осень/весна]]></column_11>
+		<column_12><![CDATA[Черный]]></column_12>
+		<column_13><![CDATA[Замша]]></column_13>
+		<column_14><![CDATA[Украина]]></column_14>
+		<column_15><![CDATA[40|41|42|43|44|45]]></column_15>
+		<column_16><![CDATA[]]></column_16>
+		<column_17><![CDATA[]]></column_17>
+		<column_18><![CDATA[]]></column_18>
+		<column_19><![CDATA[]]></column_19>
+		<column_20><![CDATA[]]></column_20>
+	</node>
+	<node>
+		<column_1><![CDATA[Kadar]]></column_1>
+		<column_2><![CDATA[2415339]]></column_2>
+		<column_3><![CDATA[1317]]></column_3>
+		<column_4><![CDATA[1095]]></column_4>
+		<column_5><![CDATA[Сезон: Осень/весна]]></column_5>
+		<column_6><![CDATA[Материал: Замша]]></column_6>
+		<column_7><![CDATA[Страна: Украина]]></column_7>
+		<column_8><![CDATA[Цвет: Синий]]></column_8>
+		<column_9><![CDATA[http://menshoes.in.ua/wp-content/uploads/260-kadar-2415339.gif]]></column_9>
+		<column_10><![CDATA[Мокасины]]></column_10>
+		<column_11><![CDATA[Осень/весна]]></column_11>
+		<column_12><![CDATA[Синий]]></column_12>
+		<column_13><![CDATA[Замша]]></column_13>
+		<column_14><![CDATA[Украина]]></column_14>
+		<column_15><![CDATA[40|41|42|43|44|45]]></column_15>
+		<column_16><![CDATA[]]></column_16>
+		<column_17><![CDATA[]]></column_17>
+		<column_18><![CDATA[]]></column_18>
+		<column_19><![CDATA[]]></column_19>
+		<column_20><![CDATA[]]></column_20>
+	</node>
+	<node>
+		<column_1><![CDATA[Cardio]]></column_1>
+		<column_2><![CDATA[22-blue]]></column_2>
+		<column_3><![CDATA[2301]]></column_3>
+		<column_4><![CDATA[995]]></column_4>
+		<column_5><![CDATA[Сезон: Осень/весна]]></column_5>
+		<column_6><![CDATA[Материал: Нубук]]></column_6>
+		<column_7><![CDATA[Страна: Украина]]></column_7>
+		<column_8><![CDATA[Цвет: Синий]]></column_8>
+		<column_9><![CDATA[http://menshoes.in.ua/wp-content/uploads/261-kardio-22-blue.gif]]></column_9>
+		<column_10><![CDATA[Мокасины]]></column_10>
+		<column_11><![CDATA[Осень/весна]]></column_11>
+		<column_12><![CDATA[Синий]]></column_12>
+		<column_13><![CDATA[Нубук]]></column_13>
+		<column_14><![CDATA[Украина]]></column_14>
+		<column_15><![CDATA[40|41|42|43|44]]></column_15>
+		<column_16><![CDATA[]]></column_16>
+		<column_17><![CDATA[]]></column_17>
+		<column_18><![CDATA[]]></column_18>
+		<column_19><![CDATA[]]></column_19>
+		<column_20><![CDATA[]]></column_20>
+	</node>
+	<node>
+		<column_1><![CDATA[Cardio]]></column_1>
+		<column_2><![CDATA[22-green]]></column_2>
+		<column_3><![CDATA[2302]]></column_3>
+		<column_4><![CDATA[995]]></column_4>
+		<column_5><![CDATA[Сезон: Осень/весна]]></column_5>
+		<column_6><![CDATA[Материал: Нубук]]></column_6>
+		<column_7><![CDATA[Страна: Украина]]></column_7>
+		<column_8><![CDATA[Цвет: Зелёный]]></column_8>
+		<column_9><![CDATA[http://menshoes.in.ua/wp-content/uploads/262-kardio-22-green.gif]]></column_9>
+		<column_10><![CDATA[Мокасины]]></column_10>
+		<column_11><![CDATA[Осень/весна]]></column_11>
+		<column_12><![CDATA[Зелёный]]></column_12>
+		<column_13><![CDATA[Нубук]]></column_13>
+		<column_14><![CDATA[Украина]]></column_14>
+		<column_15><![CDATA[40|41|42|43|44]]></column_15>
+		<column_16><![CDATA[]]></column_16>
+		<column_17><![CDATA[]]></column_17>
+		<column_18><![CDATA[]]></column_18>
+		<column_19><![CDATA[]]></column_19>
+		<column_20><![CDATA[]]></column_20>
+	</node>
+	<node>
+		<column_1><![CDATA[Cardio]]></column_1>
+		<column_2><![CDATA[22-ocean]]></column_2>
+		<column_3><![CDATA[2303]]></column_3>
+		<column_4><![CDATA[995]]></column_4>
+		<column_5><![CDATA[Сезон: Осень/весна]]></column_5>
+		<column_6><![CDATA[Материал: Нубук]]></column_6>
+		<column_7><![CDATA[Страна: Украина]]></column_7>
+		<column_8><![CDATA[Цвет: Синий]]></column_8>
+		<column_9><![CDATA[http://menshoes.in.ua/wp-content/uploads/263-kardio-22-ocean.gif]]></column_9>
+		<column_10><![CDATA[Мокасины]]></column_10>
+		<column_11><![CDATA[Осень/весна]]></column_11>
+		<column_12><![CDATA[Синий]]></column_12>
+		<column_13><![CDATA[Нубук]]></column_13>
+		<column_14><![CDATA[Украина]]></column_14>
+		<column_15><![CDATA[40|41|42|43|44|45]]></column_15>
+		<column_16><![CDATA[]]></column_16>
+		<column_17><![CDATA[]]></column_17>
+		<column_18><![CDATA[]]></column_18>
+		<column_19><![CDATA[]]></column_19>
+		<column_20><![CDATA[]]></column_20>
+	</node>
+	<node>
+		<column_1><![CDATA[Cardio]]></column_1>
+		<column_2><![CDATA[34-ocean]]></column_2>
+		<column_3><![CDATA[2304]]></column_3>
+		<column_4><![CDATA[995]]></column_4>
+		<column_5><![CDATA[Сезон: Осень/весна]]></column_5>
+		<column_6><![CDATA[Материал: Нубук]]></column_6>
+		<column_7><![CDATA[Страна: Украина]]></column_7>
+		<column_8><![CDATA[Цвет: Синий]]></column_8>
+		<column_9><![CDATA[http://menshoes.in.ua/wp-content/uploads/264-kardio-34-ocean.gif]]></column_9>
+		<column_10><![CDATA[Мокасины]]></column_10>
+		<column_11><![CDATA[Осень/весна]]></column_11>
+		<column_12><![CDATA[Синий]]></column_12>
+		<column_13><![CDATA[Нубук]]></column_13>
+		<column_14><![CDATA[Украина]]></column_14>
+		<column_15><![CDATA[40|41|42|43|44|45]]></column_15>
+		<column_16><![CDATA[]]></column_16>
+		<column_17><![CDATA[]]></column_17>
+		<column_18><![CDATA[]]></column_18>
+		<column_19><![CDATA[]]></column_19>
+		<column_20><![CDATA[]]></column_20>
+	</node>
+	<node>
+		<column_1><![CDATA[Cardio]]></column_1>
+		<column_2><![CDATA[49-white]]></column_2>
+		<column_3><![CDATA[2305]]></column_3>
+		<column_4><![CDATA[995]]></column_4>
+		<column_5><![CDATA[Сезон: Осень/весна]]></column_5>
+		<column_6><![CDATA[Материал: Кожа]]></column_6>
+		<column_7><![CDATA[Страна: Украина]]></column_7>
+		<column_8><![CDATA[Цвет: Белый]]></column_8>
+		<column_9><![CDATA[http://menshoes.in.ua/wp-content/uploads/265-kardio-49-white.gif]]></column_9>
+		<column_10><![CDATA[Мокасины]]></column_10>
+		<column_11><![CDATA[Осень/весна]]></column_11>
+		<column_12><![CDATA[Белый]]></column_12>
+		<column_13><![CDATA[Кожа]]></column_13>
+		<column_14><![CDATA[Украина]]></column_14>
+		<column_15><![CDATA[40|41|42|43|44|45]]></column_15>
+		<column_16><![CDATA[]]></column_16>
+		<column_17><![CDATA[]]></column_17>
+		<column_18><![CDATA[]]></column_18>
+		<column_19><![CDATA[]]></column_19>
+		<column_20><![CDATA[]]></column_20>
+	</node>
+	<node>
+		<column_1><![CDATA[Davis]]></column_1>
+		<column_2><![CDATA[7112-8]]></column_2>
+		<column_3><![CDATA[811]]></column_3>
+		<column_4><![CDATA[1350]]></column_4>
+		<column_5><![CDATA[Сезон: Осень/весна]]></column_5>
+		<column_6><![CDATA[Материал: Кожа]]></column_6>
+		<column_7><![CDATA[Страна: Турция]]></column_7>
+		<column_8><![CDATA[Цвет: Черный]]></column_8>
+		<column_9><![CDATA[http://menshoes.in.ua/wp-content/uploads/242-Davis-7112-8.gif]]></column_9>
+		<column_10><![CDATA[Мужская обувь]]></column_10>
+		<column_11><![CDATA[Осень/весна]]></column_11>
+		<column_12><![CDATA[Черный]]></column_12>
+		<column_13><![CDATA[Кожа]]></column_13>
+		<column_14><![CDATA[Турция]]></column_14>
+		<column_15><![CDATA[41|42|43|44|45]]></column_15>
+		<column_16><![CDATA[]]></column_16>
+		<column_17><![CDATA[]]></column_17>
+		<column_18><![CDATA[]]></column_18>
+		<column_19><![CDATA[]]></column_19>
+		<column_20><![CDATA[]]></column_20>
+	</node>
+	<node>
+		<column_1><![CDATA[Davis]]></column_1>
+		<column_2><![CDATA[151315]]></column_2>
+		<column_3><![CDATA[812]]></column_3>
+		<column_4><![CDATA[1250]]></column_4>
+		<column_5><![CDATA[Сезон: Осень/весна]]></column_5>
+		<column_6><![CDATA[Материал: Кожа]]></column_6>
+		<column_7><![CDATA[Страна: Турция]]></column_7>
+		<column_8><![CDATA[Цвет: Черный]]></column_8>
+		<column_9><![CDATA[http://menshoes.in.ua/wp-content/uploads/243-davis-151315.gif]]></column_9>
+		<column_10><![CDATA[Мужская обувь]]></column_10>
+		<column_11><![CDATA[Осень/весна]]></column_11>
+		<column_12><![CDATA[Черный]]></column_12>
+		<column_13><![CDATA[Кожа]]></column_13>
+		<column_14><![CDATA[Турция]]></column_14>
+		<column_15><![CDATA[40|41|42|43|44|45]]></column_15>
+		<column_16><![CDATA[]]></column_16>
+		<column_17><![CDATA[]]></column_17>
+		<column_18><![CDATA[]]></column_18>
+		<column_19><![CDATA[]]></column_19>
+		<column_20><![CDATA[]]></column_20>
+	</node>
+</data>

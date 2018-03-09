@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<node>
+		<brand><![CDATA[Essente]]></brand>
+		<product><![CDATA[3690]]></product>
+		<sku><![CDATA[1101]]></sku>
+		<parentsku><![CDATA[11XX]]></parentsku>
+		<price><![CDATA[1050]]></price>
+		<size><![CDATA[43]]></size>
+		<description><![CDATA[Ñåçîí: îñåíü/âåñíà]]></description>
+		<img><![CDATA[http://menshoes.in.ua/wp-content/uploads/2015/08/9-pan-708.gif]]></img>
+		<category><![CDATA[Òóôëè]]></category>
+		<season><![CDATA[Îñåíü/âåñíà]]></season>
+	</node>
+	<node>
+		<brand><![CDATA[Essente]]></brand>
+		<product><![CDATA[3690]]></product>
+		<sku><![CDATA[1102]]></sku>
+		<parentsku><![CDATA[11XX]]></parentsku>
+		<price><![CDATA[1050]]></price>
+		<size><![CDATA[44]]></size>
+		<description><![CDATA[Ñåçîí: îñåíü/âåñíà]]></description>
+		<img><![CDATA[http://menshoes.in.ua/wp-content/uploads/2015/08/23-tapi-4184.gif]]></img>
+		<category><![CDATA[Òóôëè]]></category>
+		<season><![CDATA[Îñåíü/âåñíà]]></season>
+	</node>
+	<node>
+		<brand><![CDATA[Essente]]></brand>
+		<product><![CDATA[2105]]></product>
+		<sku><![CDATA[2101]]></sku>
+		<parentsku><![CDATA[21XX]]></parentsku>
+		<price><![CDATA[975]]></price>
+		<size><![CDATA[42]]></size>
+		<description><![CDATA[Ñåçîí: îñåíü/âåñíà]]></description>
+		<img><![CDATA[http://menshoes.in.ua/wp-content/uploads/2015/08/48-miratti-632002.gif]]></img>
+		<category><![CDATA[Ìàêàñèíû]]></category>
+		<season><![CDATA[Îñåíü/âåñíà]]></season>
+	</node>
+</data>
